@@ -1,0 +1,30 @@
+_repo: Dardistan-in-1866-1886-and-1893-Being-an-account-of-the-history-religions-customs-legends-fab__60590
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leitner, G. W. (Gottlieb William)
+    alias: Leitner, Gottlieb William
+    birthdate: 1840
+    deathdate: 1899
+    gutenberg_agent_id: '51040'
+    url: http://www.gutenberg.org/2009/agents/51040
+    wikipedia: https://en.wikipedia.org/wiki/Gottlieb_Wilhelm_Leitner
+description: ''
+gutenberg_issued: '2019-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60590'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dardistan (Pakistan) -- History'
+- !lcc 'DS'
+- GITenberg
+title: "Dardistan in 1866, 1886 and 1893\r\nBeing an account of the history, religions,\
+  \ customs, legends, fables, and songs of Gilgit, Chilas, Kandia (Gabrial), Dasin,\
+  \ Chitral, Hunsa, Nagyr, and other parts of the Hindukush, as also a supplement\
+  \ to the second edition of the Hunza and Nagyr handbook and an epitome of part III\
+  \ of the author's \"The languages and races of Dardistan\""
+url: http://www.gutenberg.org/ebooks/60590
